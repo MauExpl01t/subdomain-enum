@@ -12,6 +12,10 @@ mapear qué subdominios existen de un dominio antes de evaluar si algo falla.
 > exige `--i-have-authorization`, y la fuerza bruta además `--active` +
 > `--i-accept-active-risk`.
 
+## Demo
+
+![Demo de SubdomainEnum](./assets/demo.svg)
+
 ## Instalación (Windows / PowerShell)
 
 ```powershell
