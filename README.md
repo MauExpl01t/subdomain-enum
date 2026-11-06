@@ -1,5 +1,9 @@
 # SubdomainEnum
 
+![Tests](https://github.com/MauExpl01t/subdomain-enum/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Enumerador de subdominios en Python, hermano de [WebScan](../webscan). Es el
 paso de reconocimiento que hace cualquier pentester antes de probar nada:
 mapear qué subdominios existen de un dominio antes de evaluar si algo falla.
