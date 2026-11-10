@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Enumerador de subdominios en Python, hermano de [WebScan](../webscan). Es el
+Enumerador de subdominios en Python, hermano de [WebScan](https://github.com/MauExpl01t/webscan). Es el
 paso de reconocimiento que hace cualquier pentester antes de probar nada:
 mapear qué subdominios existen de un dominio antes de evaluar si algo falla.
 
